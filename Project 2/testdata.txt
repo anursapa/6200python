@@ -1,0 +1,70 @@
+1	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	1	Chicken Noodle	Progresso	Canned	Basic	1	Radio	Morning Drive	Weekday	405.18
+2	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	2	Chicken Noodle	Campbells	Canned	Basic	1	Radio	Morning Drive	Weekday	453.30
+3	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	3	Chicken Noodle	Lipton	Dry	Basic	1	Radio	Morning Drive	Weekday	868.81
+4	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	4	Chicken Noodle	Campbells	Canned	Chunky	1	Radio	Morning Drive	Weekday	425.61
+5	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	5	Chicken Noodle	Wolfgang Puck	Canned	Gourmet	1	Radio	Morning Drive	Weekday	267.48
+6	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	6	Chicken Noodle	Pacific Organic	Boxed	Organic	1	Radio	Morning Drive	Weekday	719.81
+7	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	7	Chicken Noodle	Healthy Choice	Canned	Healthy	1	Radio	Morning Drive	Weekday	707.64
+8	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	8	Split Pea	Campbells	Canned	Basic	1	Radio	Morning Drive	Weekday	165.82
+9	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	9	Split Pea	Progresso	Canned	Basic	1	Radio	Morning Drive	Weekday	296.57
+10	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	10	Split Pea	Wolfgang Puck	Canned	Gourmet	1	Radio	Morning Drive	Weekday	1307.55
+11	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	11	Minnestrone	Progresso	Canned	Basic	1	Radio	Morning Drive	Weekday	647.06
+12	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	12	Minnestrone	Campbells	Canned	Basic	1	Radio	Morning Drive	Weekday	1593.04
+13	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	13	Minnestrone	Amy's Organic	Canned	Organic	1	Radio	Morning Drive	Weekday	1468.92
+14	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	14	Minnestrone	Wolfgang Puck	Canned	Gourmet	1	Radio	Morning Drive	Weekday	1011.93
+15	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	15	Clam Chowder	Progresso	Canned	Basic	1	Radio	Morning Drive	Weekday	1246.72
+16	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	16	Clam Chowder	Campbells	Canned	Basic	1	Radio	Morning Drive	Weekday	336.55
+17	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	17	Clam Chowder	Wolfgang Puck	Canned	Gourmet	1	Radio	Morning Drive	Weekday	883.36
+18	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	18	Clam Chowder	Bar Harbor	Canned	Gourmet	1	Radio	Morning Drive	Weekday	326.85
+19	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	19	Clam Chowder	Healthy Choice	Canned	Healthy	1	Radio	Morning Drive	Weekday	497.11
+20	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	20	Clam Chowder	Campbells	Canned	Chunky	1	Radio	Morning Drive	Weekday	474.83
+21	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	1	Chicken Noodle	Progresso	Canned	Basic	2	Radio	Evening Drive	Weekday	703.79
+22	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	2	Chicken Noodle	Campbells	Canned	Basic	2	Radio	Evening Drive	Weekday	808.51
+23	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	3	Chicken Noodle	Lipton	Dry	Basic	2	Radio	Evening Drive	Weekday	336.69
+24	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	4	Chicken Noodle	Campbells	Canned	Chunky	2	Radio	Evening Drive	Weekday	572.27
+25	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	5	Chicken Noodle	Wolfgang Puck	Canned	Gourmet	2	Radio	Evening Drive	Weekday	377.53
+26	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	6	Chicken Noodle	Pacific Organic	Boxed	Organic	2	Radio	Evening Drive	Weekday	886.94
+27	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	7	Chicken Noodle	Healthy Choice	Canned	Healthy	2	Radio	Evening Drive	Weekday	203.79
+28	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	8	Split Pea	Campbells	Canned	Basic	2	Radio	Evening Drive	Weekday	824.44
+29	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	9	Split Pea	Progresso	Canned	Basic	2	Radio	Evening Drive	Weekday	334.70
+30	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	10	Split Pea	Wolfgang Puck	Canned	Gourmet	2	Radio	Evening Drive	Weekday	388.80
+31	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	11	Minnestrone	Progresso	Canned	Basic	2	Radio	Evening Drive	Weekday	1776.21
+32	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	12	Minnestrone	Campbells	Canned	Basic	2	Radio	Evening Drive	Weekday	555.64
+33	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	13	Minnestrone	Amy's Organic	Canned	Organic	2	Radio	Evening Drive	Weekday	1436.83
+34	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	14	Minnestrone	Wolfgang Puck	Canned	Gourmet	2	Radio	Evening Drive	Weekday	464.52
+35	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	15	Clam Chowder	Progresso	Canned	Basic	2	Radio	Evening Drive	Weekday	247.17
+36	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	16	Clam Chowder	Campbells	Canned	Basic	2	Radio	Evening Drive	Weekday	922.34
+37	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	17	Clam Chowder	Wolfgang Puck	Canned	Gourmet	2	Radio	Evening Drive	Weekday	893.74
+38	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	18	Clam Chowder	Bar Harbor	Canned	Gourmet	2	Radio	Evening Drive	Weekday	458.34
+39	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	19	Clam Chowder	Healthy Choice	Canned	Healthy	2	Radio	Evening Drive	Weekday	483.74
+40	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	20	Clam Chowder	Campbells	Canned	Chunky	2	Radio	Evening Drive	Weekday	263.70
+41	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	1	Chicken Noodle	Progresso	Canned	Basic	3	Radio	Choice	Weekend	1439.18
+42	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	2	Chicken Noodle	Campbells	Canned	Basic	3	Radio	Choice	Weekend	398.43
+43	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	3	Chicken Noodle	Lipton	Dry	Basic	3	Radio	Choice	Weekend	955.38
+44	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	4	Chicken Noodle	Campbells	Canned	Chunky	3	Radio	Choice	Weekend	117.06
+45	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	5	Chicken Noodle	Wolfgang Puck	Canned	Gourmet	3	Radio	Choice	Weekend	315.60
+46	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	6	Chicken Noodle	Pacific Organic	Boxed	Organic	3	Radio	Choice	Weekend	435.36
+47	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	7	Chicken Noodle	Healthy Choice	Canned	Healthy	3	Radio	Choice	Weekend	36.67
+48	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	8	Split Pea	Campbells	Canned	Basic	3	Radio	Choice	Weekend	901.56
+49	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	9	Split Pea	Progresso	Canned	Basic	3	Radio	Choice	Weekend	271.44
+50	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	10	Split Pea	Wolfgang Puck	Canned	Gourmet	3	Radio	Choice	Weekend	324.78
+51	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	11	Minnestrone	Progresso	Canned	Basic	3	Radio	Choice	Weekend	692.30
+52	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	12	Minnestrone	Campbells	Canned	Basic	3	Radio	Choice	Weekend	1202.18
+53	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	13	Minnestrone	Amy's Organic	Canned	Organic	3	Radio	Choice	Weekend	226.37
+54	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	14	Minnestrone	Wolfgang Puck	Canned	Gourmet	3	Radio	Choice	Weekend	1093.80
+55	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	15	Clam Chowder	Progresso	Canned	Basic	3	Radio	Choice	Weekend	1657.57
+56	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	16	Clam Chowder	Campbells	Canned	Basic	3	Radio	Choice	Weekend	285.75
+57	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	17	Clam Chowder	Wolfgang Puck	Canned	Gourmet	3	Radio	Choice	Weekend	789.74
+58	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	18	Clam Chowder	Bar Harbor	Canned	Gourmet	3	Radio	Choice	Weekend	326.90
+59	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	19	Clam Chowder	Healthy Choice	Canned	Healthy	3	Radio	Choice	Weekend	726.05
+60	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	20	Clam Chowder	Campbells	Canned	Chunky	3	Radio	Choice	Weekend	902.71
+61	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	1	Chicken Noodle	Progresso	Canned	Basic	4	Newsppr	Coupon	Weekday	1355.16
+62	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	2	Chicken Noodle	Campbells	Canned	Basic	4	Newsppr	Coupon	Weekday	779.88
+63	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	3	Chicken Noodle	Lipton	Dry	Basic	4	Newsppr	Coupon	Weekday	88.13
+64	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	4	Chicken Noodle	Campbells	Canned	Chunky	4	Newsppr	Coupon	Weekday	136.91
+65	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	5	Chicken Noodle	Wolfgang Puck	Canned	Gourmet	4	Newsppr	Coupon	Weekday	827.17
+66	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	6	Chicken Noodle	Pacific Organic	Boxed	Organic	4	Newsppr	Coupon	Weekday	133.74
+67	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	7	Chicken Noodle	Healthy Choice	Canned	Healthy	4	Newsppr	Coupon	Weekday	969.95
+68	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	8	Split Pea	Campbells	Canned	Basic	4	Newsppr	Coupon	Weekday	513.71
+69	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	9	Split Pea	Progresso	Canned	Basic	4	Newsppr	Coupon	Weekday	53.49
+70	1	Thurs	1	Snow	1	Rockville	Basic	Medium	1	Smith, J.	Junior	5	10	Split Pea	Wolfgang Progresso	Canned	Basic	10	In Store	End of Aisle	Weekday	427.03

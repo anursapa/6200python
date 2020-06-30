@@ -1,0 +1,47 @@
+.separator "\t" "\n"
+drop table if exists Days;
+create table Days (
+DoY int not null,
+DoW text,
+Holiday int,
+Weather text);
+.import Days.txt Days
+drop table if exists Managers;
+create table Managers (
+MgrId int not null,
+MgrName text,
+Grade text,
+Years int);
+.import Managers.txt Managers
+drop table if exists Promotions;
+create table Promotions (
+PromoId int not null,
+Medium text,
+Target text,
+Interval text);
+.import Promotions.txt Promotions
+drop table if exists Soups;
+create table Soups (
+SoupId int not null,
+Type text,
+Vendor text,
+Mode text,
+Style text);
+.import Soups.txt Soups
+drop table if exists Stores;
+create table Stores (
+StoreId int not null,
+Location text,
+Size text,
+Elevation text,
+MgrId int);
+.import Stores.txt Stores
+drop table if exists sales;
+create table sales (
+TrxId int not null,
+DoY int,
+StoreID int,
+SoupId int,
+PromoId int,
+Sales number);
+.import Sales.txt Sales

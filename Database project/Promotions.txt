@@ -1,0 +1,20 @@
+1	Radio	Morning Drive	Weekday
+2	Radio	Evening Drive	Weekday
+3	Radio	Choice	Weekend
+4	Newsppr	Coupon	Weekday
+5	Newsppr	Insert	Weekday
+6	Newsppr	Coupon	Weekend
+7	Newsppr	Full Page Ad	Weekday
+8	Newsppr	Coupon	Weekend
+9	Newsppr	Insert	Weekend
+10	In Store	End of Aisle	Weekday
+11	In Store	End of Aisle	Weekend
+12	In Store	Window	Weekday
+13	Instore	Window	Weekend
+14	Instore	On Shelf	Weekend
+15	Instore	On Shelf	Weekday
+16	Email	Target	Weekday
+17	Email	Broadcast	Weekday
+18	Email	Target	Weekend
+19	Email	Broadcast	Weekday
+20	Text	Target	Weekday

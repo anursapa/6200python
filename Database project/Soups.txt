@@ -1,0 +1,20 @@
+1	Chicken Noodle	Progresso	Canned	Basic
+2	Chicken Noodle	Campbells	Canned	Basic
+3	Chicken Noodle	Lipton	Dry	Basic
+4	Chicken Noodle	Campbells	Canned	Chunky
+5	Chicken Noodle	Wolfgang Puck	Canned	Gourmet
+6	Chicken Noodle	Pacific Organic	Boxed	Organic
+7	Chicken Noodle	Healthy Choice	Canned	Healthy
+8	Split Pea	Campbells	Canned	Basic
+9	Split Pea	Progresso	Canned	Basic
+10	Split Pea	Wolfgang Puck	Canned	Gourmet
+11	Minnestrone	Progresso	Canned	Basic
+12	Minnestrone	Campbells	Canned	Basic
+13	Minnestrone	Amy's Organic	Canned	Organic
+14	Minnestrone	Wolfgang Puck	Canned	Gourmet
+15	Clam Chowder	Progresso	Canned	Basic
+16	Clam Chowder	Campbells	Canned	Basic
+17	Clam Chowder	Wolfgang Puck	Canned	Gourmet
+18	Clam Chowder	Bar Harbor	Canned	Gourmet
+19	Clam Chowder	Healthy Choice	Canned	Healthy
+20	Clam Chowder	Campbells	Canned	Chunky

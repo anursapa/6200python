@@ -1,0 +1,82 @@
+1. The possible's values that can be assigned to a variable are determined by
+		
+variable name
+		
+previous values
+		
+data type
+		
+the expression in which the variable appears
+
+2.
+
+3.A symbol that represents a computation to be performed on one or more variables or constants is known as
+		
+an expression
+		
+a mathematical expression
+		
+an operator
+		
+an operation
+
+4.a + b * c + d is the same as
+		
+(a+b) * (c +d)
+		
+a + (b*c) + d
+		
+a*c + b*d
+		
+They are all the same
+
+5.a == b will assign the value of b to a
+ True
+
+ False
+
+
+
+
+QUESTION 1
+
+Imperative languages are more abstract but can be provably correct
+ True
+
+ False
+
+1 points   
+
+QUESTION 2
+
+Indentation is important in a compound statement in Python
+ True
+
+ False
+
+1 points   
+
+QUESTION 3
+
+x = 5 is a Boolean expression
+ True
+
+ False
+
+1 points   
+
+QUESTION 4
+
+A while loop is an example of definite iteration
+ True
+
+ False
+
+1 points   
+
+QUESTION 5
+
+Functional languages are used in artificial intelligence
+ True
+
+ False

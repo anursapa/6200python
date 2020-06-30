@@ -1,0 +1,5 @@
+1	Smith, J.	Junior	5
+2	Williams, K.	Midlevel	8
+3	Costenably	Junior	6
+4	Albertson, M.	Senior	15
+5	Gershman, L.	Midlevel	9

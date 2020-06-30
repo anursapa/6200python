@@ -1,0 +1,5 @@
+1	Rockville	Basic	Medium	1
+2	Potomac	Upscale	Medium	2
+3	Gaithersburg	Basic	Large	3
+4	Bethesda	Upscale	Medium	4
+5	Frederick	Basic	Large	5
